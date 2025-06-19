@@ -1,9 +1,7 @@
 
 # 🐱🐶 Cat vs Dog Image Classification using LinearSVC
 
-This project implements a **Support Vector Machine (SVM)** classifier using `LinearSVC` from `scikit-learn` to classify images of **cats** and **dogs** from the [Kaggle Dogs vs Cats dataset](https://www.kaggle.com/c/dogs-vs-cats). Images are preprocessed (grayscale, resized, flattened) and fed into a classical machine learning model for binary classification.
-
-![demo](https://img.shields.io/badge/ML-Image%20Classification-blue) ![python](https://img.shields.io/badge/Python-3.10%2B-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
+This project implements a **Support Vector Machine (SVM)** classifier using `LinearSVC` from `scikit-learn` to classify images of **cats** and **dogs** from the Kaggle Dogs vs Cats dataset. Images are preprocessed (grayscale, resized, flattened) and fed into a classical machine learning model for binary classification.
 
 ---
 
